@@ -11,6 +11,8 @@ namespace Test1
         static void Main(string[] args)
         {
             Console.WriteLine("To jest test");
+            Console.WriteLine("A to kolejny");
+            Console.WriteLine("Test nr 3");
         }
     }
 }
