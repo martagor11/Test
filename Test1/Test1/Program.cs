@@ -12,7 +12,7 @@ namespace Test1
         {
             Console.WriteLine("To jest test");
             Console.WriteLine("A to kolejny");
-            Console.WriteLine("Test nr 3");
+            Console.WriteLine("Test nr 3");           
         }
     }
 }
